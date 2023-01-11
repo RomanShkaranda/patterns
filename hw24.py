@@ -20,7 +20,6 @@ for i in letters:
     count = res.count(i)
     custom_print(i)
     custom_print(count)
-    custom_print("\n")
 
 
 
