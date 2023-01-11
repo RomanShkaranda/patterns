@@ -1,4 +1,4 @@
-from proxy.reader import Reader
+from patterns_example.proxy.reader import Reader
 
 
 class TxtReader(Reader):
